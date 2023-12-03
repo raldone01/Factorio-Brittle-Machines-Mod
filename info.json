@@ -1,0 +1,11 @@
+{
+  "name": "brittle-machines",
+  "version": "0.1.0",
+  "description": "Isn't it weird that all machines have infinite durability? This mod makes them brittle, so they take damage when crafting.",
+  "author": "raldone01",
+  "factorio_version": "1.1.94",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "title": "Brittle Machines"
+}
